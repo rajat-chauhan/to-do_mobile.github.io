@@ -9,6 +9,6 @@ When we click on:
 
 (c) "plus-circle" present on page-2, we directed to page-4 of project.
 
-(d) "back=arrow" present on page-2 and page-3, we redirected to page-1.
+(d) "back-arrow" present on page-2 and page-3, we redirected to page-1.
 
 (e) "back-arrow" present on page-4, we redirected to page-2.
